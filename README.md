@@ -25,6 +25,10 @@ Ik werk nu aan complexere projecten, met frameworks zoals Sveltekit en Astro, en
 
 Er wordt verwacht dat ik nu zelfstandig ga werken, complexe webapplicaties ga ontwerpen en ontwikkelen, API’s ga integreren, frameworks ga gebruiken en volgens vastgestelde ontwikkelmethoden ga werken. Er staat veel druk op, want mijn vaardigheden worden getest in echte projecten, stages en mijn afstudeeropdracht (meesterproef). Ik moet alles wat ik de afgelopen semesters heb geleerd, samenbrengen.
 
+## Bronnen
+
+- [The 5 stages of painting](https://marion.scot/the-5-stages-of-making-a-painting/)
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
